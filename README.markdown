@@ -1,3 +1,10 @@
+# Ruby on Rails Tutorial: first application
+
+This is my learning by example of Ruby on Rails by following the instructions
+of Mr. M. Hartl on his "Ruby on Rails 3 tutorial. This is the first application for 
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl]
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
